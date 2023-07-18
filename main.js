@@ -1,9 +1,8 @@
 const linksSocialMedia = {
     github: "aristidesquetajr",
-    youtube: "jackelinygracielly",
     facebook: "aristidesqueta",
     instagram: "aristidesquetajr",
-    twitter: "jackelinytec"
+    twitter: "kashiki_queta"
 }
 
 function changeSocialMediaLinks() {
